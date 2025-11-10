@@ -1,0 +1,5 @@
+const MENU_LINKS = {
+    "單元一筆記": "https://hackmd.io/@S4T5MKJKTv2-p0tlVJuczw/ry7eYO1hgl",
+    "單元一作品": "https://cc960715-oss.github.io/-balloon/",
+    "題目測驗": "https://cc960715-oss.github.io/20251028/quiz/",
+};
